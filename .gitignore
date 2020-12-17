@@ -38,4 +38,5 @@ yarn-debug.log*
 .DS_Store
 /vendor/bundle
 /.idea
-yarn.lock/.vscode
+yarn.lock
+/.vscode
